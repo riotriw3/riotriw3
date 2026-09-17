@@ -1,8 +1,4 @@
-# Rio Tri Wibowo
-
-### Data Analytics | Mathematics | Data-Driven Problem Solving
-
-## Summary
+# Hi, I'm Rio Tri Wibowo 👋
 
 Fresh Graduate in Mathematics with a specialization in Data Analytics from UIN Syarif Hidayatullah Jakarta, with experience in data management, data analysis, and administrative operations through internships, academic projects, and organizational activities.
 
@@ -10,39 +6,24 @@ Experienced in data entry, data cleaning, data validation, exploratory data anal
 
 Currently developing skills in data analytics, statistical modeling, machine learning, and data-driven business analysis.
 
----
-
-## Skills
-
-### Data Analysis & Statistics
-- Data Cleaning & Validation
-- Data Processing
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Interpretation
-- Data Visualization
-- Insight Reporting
-
-### Operational & Business Analytics
-- Process Analysis
-- Monitoring & Evaluation
-- Performance Analysis
-- Data Management
-- Data-Driven Decision Making
-- Operational Reporting
-
-### Machine Learning & Modeling
-- Classification
-- Regression
-- Feature Engineering
-- Model Evaluation
-- Statistical Forecasting
-- Natural Language Processing (NLP)
-- Sentiment Analysis
+### Data Analytics | Mathematics | Data-Driven Problem Solving
 
 ---
 
-## Tools
+## 📊 Skills
+
+### Data & Machine Learning
+Data Cleaning · Data Validation · Data Processing · Exploratory Data Analysis · Data Visualization · Statistical Analysis · Data Interpretation · Reporting · Machine Learning · Classification · Regression · Feature Engineering · Model Evaluation · Statistical Forecasting · Natural Language Processing · Sentiment Analysis
+
+### Mathematics & Statistics
+Probability · Multivariate Statistics · Mathematical Modeling · Categorical Data Analysis · Statistical Modeling
+
+### Soft Skills
+Analytical Thinking · Attention to Detail · Problem Solving · Communication · Teamwork · Time Management · Willingness to Learn
+
+---
+
+## 🛠️ Tools
 
 ### Programming & Data Analysis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
