@@ -1,5 +1,4 @@
 # Hi, I'm Rio Tri Wibowo 👋
-
 Fresh Graduate in Mathematics with a specialization in Data Analytics from UIN Syarif Hidayatullah Jakarta, with experience in data management, data analysis, and administrative operations through internships, academic projects, and organizational activities.
 
 Experienced in data entry, data cleaning, data validation, exploratory data analysis, statistical analysis, reporting, and data interpretation. Interested in transforming raw data into structured information and actionable insights to support operational processes and data-driven decision-making.
@@ -13,7 +12,7 @@ Currently developing skills in data analytics, statistical modeling, machine lea
 ## 📊 Skills
 
 ### Data & Machine Learning
-Data Cleaning · Data Validation · Data Processing · Exploratory Data Analysis · Data Visualization · Statistical Analysis · Data Interpretation · Reporting · Machine Learning · Classification · Regression · Feature Engineering · Model Evaluation · Statistical Forecasting · Natural Language Processing · Sentiment Analysis
+Data Cleaning · Data Validation · Data Processing · Exploratory Data Analysis · Data Visualization · Statistical Analysis · Data Interpretation · Reporting · Machine Learning (Classification, Regression) · Model Evaluation · Statistical Forecasting · Sentiment Analysis
 
 ### Mathematics & Statistics
 Probability · Multivariate Statistics · Mathematical Modeling · Categorical Data Analysis · Statistical Modeling
